@@ -1,0 +1,41 @@
+/* CSS - Part 1 Assignment */
+
+/* Answer 1 */
+/* Simply add the background color in the body tag. */
+/* <body style="background-color: wheat"> */
+
+/* Answer 2 to Answer 10 */
+p {
+    color: #a52a2a ;
+    text-align: center;
+    line-height: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    font-family: Georgia;
+}
+
+h3 {
+    text-align: center;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 255, 0);
+}
+
+button {
+    background-color: white;
+    color: blueviolet;
+}
+
+textarea {
+    color: #000;
+}
+
+span {
+    text-decoration: underline;
+}
