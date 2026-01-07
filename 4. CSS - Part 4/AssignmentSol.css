@@ -1,0 +1,50 @@
+/* Qs 1: */
+#box1 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    /* Answer */
+    transition: width 2s ease-in 0.5s;
+}
+
+#box1:hover {
+    width: 600px;
+}
+
+/* Qs 2: */
+#box2 {
+    width: 100px;
+    height: 100px; 
+    background-color: red;   
+    /* Answer */
+    transform: translate(200px, 200px) rotate(90deg);
+}
+
+/* Qs 3: */
+#box3 {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    /* Answer */
+    transform: skewX(20deg);
+}
+
+/* Qs 4: */
+#box4 {
+    width: 100px;
+    height: 100px;
+    background-color: lightgreen;
+    /* Answer */
+    box-shadow: 2px 2px 5px green;
+}
+
+/* Qs 5: */
+#myPic {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    /* Answer */
+    background-image: url('https://i.pinimg.com/1200x/24/84/70/248470199d7901dd9f5adbed7a6a3932.jpg');
+    background-size: cover;
+    opacity: 50%;
+}

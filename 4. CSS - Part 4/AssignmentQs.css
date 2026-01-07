@@ -1,0 +1,43 @@
+/* Qs 1: */
+#box1 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    /* Your Answer here*/
+}
+
+#box1:hover {
+    width: 600px;
+}
+
+/* Qs 2: */
+#box2 {
+    width: 100px;
+    height: 100px; 
+    background-color: red;   
+    /* Your Answer here*/
+}
+
+/* Qs 3: */
+#box3 {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    /* Your Answer here*/
+}
+
+/* Qs 4: */
+#box4 {
+    width: 100px;
+    height: 100px;
+    background-color: lightgreen;
+    /* Your Answer here*/
+}
+
+/* Qs 5: */
+#myPic {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    /* You Answer here */
+}
